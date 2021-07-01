@@ -1,11 +1,33 @@
+body {
+    background-image: url(https://estag.fimagenes.com/img/1/2/q/4/0/2q40_900.jpg);
+    padding-left: 30%;
+}
+
+
 h1 {
-    color: blueviolet;
+    color: rgb(59, 158, 165);
+    text-align: center; padding-right: 50%;
+
+}
+h3{
+    color: rgb(176, 216, 0); text-align: center; padding-right: 50%;
+}
+h4 {
+    color: indigo; text-align: center; padding-right: 50%;
 }
 #thirdDiv{
+
     height: 600px; width: 500px;
     background-color: cadetblue;
     padding: 50px; border-width: 10px;border-color: darksalmon;border-style: solid;
+    
 }
-#spanID {
-    font-size: 18px; margin: 50px;
+#spanId {
+    color: mediumspringgreen;
+    font-size: 18px; margin: 50px; padding-right: 50%; text-align: center;
+}
+#divClass{
+    text-align: center;
+    padding-right: 50%;
+    color: gray;
 }

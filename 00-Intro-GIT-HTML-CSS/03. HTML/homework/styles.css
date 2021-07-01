@@ -1,6 +1,6 @@
 body {
     background-image: url(https://estag.fimagenes.com/img/1/2/q/4/0/2q40_900.jpg);
-    padding-left: 30%;
+    padding-left: 30%; text-align: center;
 }
 
 
@@ -25,9 +25,4 @@ h4 {
 #spanId {
     color: mediumspringgreen;
     font-size: 18px; margin: 50px; padding-right: 50%; text-align: center;
-}
-#divClass{
-    text-align: center;
-    padding-right: 50%;
-    color: gray;
 }

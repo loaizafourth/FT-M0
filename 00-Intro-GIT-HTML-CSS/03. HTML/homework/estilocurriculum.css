@@ -1,0 +1,31 @@
+body { 
+    margin-right: 50px ; margin-left: 50px; padding: 60px; border: 10px solid gray;
+    background-image: url(http://noisyglor.com/wp-content/uploads/2017/07/base-hori-noisy.png);
+}
+#titulo1 {
+    text-align: center;
+}
+.titulo {
+    font-size: 30px; font-style: italic; font-variant-caps: petite-caps; 
+    
+    background-color: rgb(134, 175, 175);
+    border: 3px solid grey;
+    
+}
+#imagen { 
+    text-align: center;
+}
+ul { 
+    font-size: 18px; 
+    border: lightslategrey solid;
+    
+
+}
+section {
+    display: block;
+    background-color: lightblue; border: 2px solid black; margin-left: 20%; margin-right: 20%; padding: 50px;
+}
+p {  
+    
+    border: lightslategray;
+}

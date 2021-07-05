@@ -48,20 +48,16 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
      display: flex;
      justify-content: space-around;
      align-items: center;
+     flex-direction: row-reverse
 }
 
 
 /* Ejercicio 6. */
-#ejercicioCinco {
-    width: 200px;
-    height: 100px;
-    flex-direction: row-reverse;
-    flex-wrap: wrap;
-}
+
 
 /* ejercicio 7. */ 
 #ejercicioSiete {
-    background: slateblue;
+    background: chartreuse;
     display: flex;
 }
 
@@ -71,7 +67,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display: flex;
     flex-wrap: wrap;
 right: auto;
-     ;  
+      
       
 }
 #caja2{
@@ -81,5 +77,5 @@ right: auto;
 }
 #e2{
     display: flex;
-    
+    align-self: stretch;
 }
